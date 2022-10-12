@@ -1,0 +1,6 @@
+package com.example.fpt.Execute2.service;
+
+import com.example.fpt.Execute2.domain.BookOnTape;
+
+public interface BookOnTapeService extends ThingService<BookOnTape> {
+}
